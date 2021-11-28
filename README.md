@@ -1,0 +1,1 @@
+# Write-a-C-program-to-simulate-paging-technique-of-memory-management.
